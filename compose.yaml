@@ -1,0 +1,4 @@
+services:
+  pythondockertestrepo:
+    build:
+      context: .
