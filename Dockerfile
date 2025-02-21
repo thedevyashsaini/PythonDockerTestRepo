@@ -8,5 +8,3 @@ COPY script.py ./
 
 # Default command
 CMD ["python", "script.py"]
-
-
