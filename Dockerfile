@@ -15,3 +15,4 @@ COPY script.py ./
 
 # Default command
 CMD ["/venv/bin/python", "script.py"]
+
